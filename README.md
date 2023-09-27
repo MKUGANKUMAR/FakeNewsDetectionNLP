@@ -1,1 +1,1 @@
-# FakeNewsDetectionNLP
+# Fake-News-Detection-Using-NLP
